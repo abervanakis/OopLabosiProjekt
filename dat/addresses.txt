@@ -1,0 +1,15 @@
+1
+Zagrebacka ulica
+12
+Zagreb
+10000
+2
+Splitska ulica
+4
+Split
+21000
+3
+Samoborska ulica
+15
+Samobor
+10430
